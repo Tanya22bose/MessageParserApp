@@ -8,5 +8,5 @@ This app is built using Appsmith. Turn any datasource into an internal app in mi
 
 ##### You can visit the application using the below link
 
-###### [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](https://app.appsmith.com/applications/652fd4371ff3b24808e7e3d4/pages/652fd4371ff3b24808e7e3d7) [![](https://assets.appsmith.com/git-sync/Buttons2.svg)](https://app.appsmith.com/applications/652fd4371ff3b24808e7e3d4/pages/652fd4371ff3b24808e7e3d7/edit)
+###### [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](https://app.appsmith.com/app/message-parsing-app/tickets-652fd49b1ff3b24808e7e3dd?branch=main)
 
