@@ -1,12 +1,8 @@
 {
   "pages": [
     {
-      "id": "Dashboard",
-      "isDefault": true
-    },
-    {
       "id": "Tickets",
-      "isDefault": false
+      "isDefault": true
     }
   ],
   "viewMode": false,
